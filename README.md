@@ -12,6 +12,12 @@ https://github.com/dracula/zathura
 ## Latex compiler
 https://mg.readthedocs.io/latexmk.html
 
+## Latex
+https://www.tug.org/texlive/quickinstall.html
+https://unix.stackexchange.com/questions/26047/how-to-correctly-add-a-path-to-path
+https://tug.org/texlive/doc.html
+http://tug.ctan.org/info/tlmgrbasics/doc/tlmgr.pdf
+
 ### Inspired by
 https://github.com/SeniorMars/dotfiles
 https://github.com/gillescastel
